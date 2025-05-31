@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="8Ey~4Uw+JBe|t#-*|YBd" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="|Ki@d[y=h$SNB7$*+d#C"><field name="LEDS">`
+        # # # . . 
+        # # # . . 
+        # # . . . 
+        # # # . . 
+        # # # . .
+        `</field><next><block type="device_pause" id="HrFFFOU0(B)]oqr7Brf}"><value name="pause"><shadow type="timePicker" id="C:Jj4jP:QX{2rI=Z|k5."><field name="ms">100</field></shadow></value><next><block type="device_clear_display" id="f1Vy-zH@m.sP5ij^V;v3"><next><block type="device_print_message" id="O0U|vFx=+EDvR3VEs]5h"><value name="text"><shadow type="text" id="1Y/{ihRm,P8$4^X(Db3g"><field name="TEXT">“TOSHIBA saiko!! 1048 315!”</field></shadow></value><next><block type="device_clear_display" id="|JX~Q0Il4NA,#P=L.Pb6"></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="8MB^gp.~^Q-AOghF2Kob" x="361" y="32"></block></xml>
